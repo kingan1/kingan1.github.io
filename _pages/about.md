@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+<i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
+WARNING: Work in progress
+<i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
 
 
 My name is Ashley King, about me, .....
